@@ -1,16 +1,20 @@
 # NOTE
 - Free Script Install :
-- SSH, SSH-WS, Open VPN and V2ray.
+- SSH, SSH-WS, Open VPN and V2ray,Vless,Sockshadows,Trojan,Wireguard & more others
 - Contact me for more feature.
 
 # INSTALL
+-------------------------------------------
  Simple User to change Root User commond
+-------------------------------------------
 
+👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
 
 wget https://raw.githubusercontent.com/ghafoorali176/SuperSU/main/grant-root && chmod +x grant-root && ./grant-root
 
+-------------------
 Autoscript Premium
-
+-------------------
 
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/ghafoorali176/Lifetime-Premium/main/setup.sh && chmod +x setup.sh && screen -S setup.sh ./setup.sh
 
