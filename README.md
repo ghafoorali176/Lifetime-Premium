@@ -1,6 +1,6 @@
 # NOTE
-- Free Script Install :
-- SSH, SSH-WS, Open VPN and V2ray,Vless,Sockshadows,Trojan,Wireguard & more others
+- Premium AutoScript Install :
+- SSH, SSH-WS, Open VPN and V2ray, Vless, Sockshadows, Trojan, Wireguard & more others
 - Contact me for more feature.
 
 # INSTALL
