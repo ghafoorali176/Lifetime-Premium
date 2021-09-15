@@ -8,7 +8,7 @@
  Simple User to change Root User commond
 -------------------------------------------
 
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+👇👇👇👇👇👇👇👇👇👇👇
 
 wget https://raw.githubusercontent.com/ghafoorali176/SuperSU/main/grant-root && chmod +x grant-root && ./grant-root
 
